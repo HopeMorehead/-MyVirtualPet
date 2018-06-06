@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\MyVirtualPet\MyVirtualPet\bin\Debug\MyVirtualPet.exe.config
+c:\users\wecancodeit\source\repos\MyVirtualPet\MyVirtualPet\bin\Debug\MyVirtualPet.exe
+c:\users\wecancodeit\source\repos\MyVirtualPet\MyVirtualPet\bin\Debug\MyVirtualPet.pdb
+c:\users\wecancodeit\source\repos\MyVirtualPet\MyVirtualPet\obj\Debug\MyVirtualPet.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\source\repos\MyVirtualPet\MyVirtualPet\obj\Debug\MyVirtualPet.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\MyVirtualPet\MyVirtualPet\obj\Debug\MyVirtualPet.exe
+c:\users\wecancodeit\source\repos\MyVirtualPet\MyVirtualPet\obj\Debug\MyVirtualPet.pdb
